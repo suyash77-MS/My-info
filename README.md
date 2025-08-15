@@ -1,8 +1,6 @@
 <!-- Professional GitHub Profile for VLSI/ASIC & Embedded Engineering -->
 
-<p align="center">
-  <img src="assets/banner.png" alt="Suyash Ghadage — VLSI | ASIC | Verification | Embedded" width="100%">
-</p>
+
 
 <h1 align="center">Suyash Ghadage</h1>
 <p align="center">
