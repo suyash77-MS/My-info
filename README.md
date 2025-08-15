@@ -26,7 +26,7 @@
 
 ---
 
-### ⚡ High
+### ⚡ Highlights
 Top-ranked ENTC engineer skilled in VLSI/ASIC (RTL→GDS, STA, P&R, DRC/LVS) and verification (SV TBs, assertions, coverage). Strong embedded/IoT (ARM/ESP32, MQTT/HTTP, Azure/AWS), and PCB from schematic→Gerbers. Proven end-to-end delivery with reproducible flows and sign-off artifacts.
 
 ---
@@ -167,7 +167,7 @@ Secure FSM-based digital lock (keypad) implemented end-to-end using open-source 
 ## 🧑‍💻 Roles & Contact
 **ASIC/Digital Design • Verification • Physical Design • Embedded/VLSI R&D**  
 **Pune (on-site)** • Open to **hybrid/remote**  
-📫 **Email/LinkedIn:** see badges above
+
 
 
 
