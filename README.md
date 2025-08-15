@@ -26,7 +26,7 @@
 
 ---
 
-### ⚡ Highlights
+### ⚡ INTRO
 Top-ranked ENTC engineer skilled in VLSI/ASIC (RTL→GDS, STA, P&R, DRC/LVS) and verification (SV TBs, assertions, coverage). Strong embedded/IoT (ARM/ESP32, MQTT/HTTP, Azure/AWS), and PCB from schematic→Gerbers. Proven end-to-end delivery with reproducible flows and sign-off artifacts.
 
 ---
@@ -51,13 +51,6 @@ Secure FSM-based digital lock (keypad) implemented end-to-end using open-source 
 - **Features:** 4-digit keypad, lock/unlock FSM, alarm/lockout, hooks for **RFID/IoT/biometrics**  
 - **Evidence:** coverage reports, STA summaries, DRC/LVS logs, GDS handoff artifacts
 
-<p>
-  <img src="https://placehold.co/360x220/0FA958/ffffff?text=RTL%20FSM" alt="RTL FSM">
-  <img src="https://placehold.co/360x220/1476FF/ffffff?text=Floorplan%2FP%26R" alt="P&R">
-  <img src="https://placehold.co/360x220/FF7A00/ffffff?text=DRC%2FLVS%20Clean" alt="DRC/LVS">
-</p>
-
-**Recruiter flags:** <img src="https://img.shields.io/badge/GDSII-Fabrication%20Ready-0FA958"> <img src="https://img.shields.io/badge/DRC%2FLVS-Clean-1476FF"> <img src="https://img.shields.io/badge/Coverage-Included-FF7A00">
 
 ---
 
