@@ -22,9 +22,6 @@ Secure FSM-based digital lock (keypad) implemented end-to-end using open-source 
 - Features: 4-digit keypad, lock/unlock FSM, alarm/lockout, hooks for RFID/IoT/biometrics  
 - Evidence: coverage reports, STA summaries, DRC/LVS logs, GDS handoff artifacts
 
-<p align="center">
-  <img src="assets/flow_diagram.png" alt="RTL → Synth → P&R → DRC/LVS → GDS" width="85%">
-</p>
 
 Recruiter flags: Fabrication-ready GDSII • Clean DRC/LVS • Coverage reports included
 
@@ -54,19 +51,6 @@ Embedded/IoT: STM32, ESP32, 8051, FreeRTOS, MQTT/HTTP
 PCB: KiCad, EasyEDA, OrCAD, Eagle  
 Tooling: Git, Linux, Bash, CMake
 
-<p align="left">
-  <img src="assets/icn_verilog.svg" height="26" alt="Verilog"/>
-  <img src="assets/icn_systemverilog.svg" height="26" alt="SystemVerilog"/>
-  <img src="assets/icn_yosys.svg" height="26" alt="Yosys"/>
-  <img src="assets/icn_openroad.svg" height="26" alt="OpenROAD"/>
-  <img src="assets/icn_magic.svg" height="26" alt="Magic"/>
-  <img src="assets/icn_klayout.svg" height="26" alt="KLayout"/>
-  <img src="assets/icn_opensta.svg" height="26" alt="OpenSTA"/>
-  <img src="assets/icn_vivado.svg" height="26" alt="Vivado"/>
-  <img src="assets/icn_modelsim.svg" height="26" alt="ModelSim"/>
-  <img src="assets/icn_kicad.svg" height="26" alt="KiCad"/>
-  <img src="assets/icn_esp32.svg" height="26" alt="ESP32"/>
-</p>
 
 ---
 
